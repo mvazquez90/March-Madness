@@ -1,0 +1,339 @@
+RANK	TEAM	GM	OPPPTS	OPPPPG
+1	Wisconsin	33	1745	52.9
+2	Virginia	31	1664	53.7
+3	Stephen F. Austin	32	1741	54.4
+4	Harvard	30	1645	54.8
+5	Drexel	33	1829	55.4
+6	Wyoming	31	1719	55.5
+7	South Fla.	33	1877	56.9
+8	Saint Louis	32	1841	57.5
+9	Alabama	32	1860	58.1
+10	Eastern Mich.	32	1878	58.7
+11	Savannah St.	32	1884	58.9
+12	Stony Brook	31	1829	59.0
+-	Kentucky	34	2006	59.0
+14	Ohio St.	34	2008	59.1
+15	New Mexico	33	1949	59.1
+16	Michigan St.	34	2010	59.1
+17	Georgetown	31	1834	59.2
+18	Georgia St.	32	1896	59.3
+19	Western Ill.	32	1905	59.5
+20	Cleveland St.	32	1907	59.6
+21	Southern California	32	1910	59.7
+22	VCU	34	2032	59.8
+23	SMU	32	1922	60.1
+24	Syracuse	33	1993	60.4
+25	Vermont	34	2057	60.5
+26	Denver	31	1876	60.5
+27	Cal Poly	33	1998	60.5
+28	Clemson	31	1880	60.6
+29	Sam Houston St.	32	1941	60.7
+30	Ball St.	30	1822	60.7
+31	Butler	34	2066	60.8
+32	Princeton	30	1831	61.0
+33	Bucknell	33	2018	61.2
+-	Morehead St.	33	2018	61.2
+35	Louisville	35	2141	61.2
+36	Cincinnati	34	2080	61.2
+37	Murray St.	31	1898	61.2
+38	Fairfield	33	2021	61.2
+39	Michigan	33	2025	61.4
+40	Notre Dame	33	2028	61.5
+41	Wright St.	32	1967	61.5
+42	Texas A&M	32	1968	61.5
+43	UAB	31	1907	61.5
+44	Middle Tenn.	31	1908	61.5
+45	Old Dominion	33	2033	61.6
+46	Tulane	31	1910	61.6
+47	Montana	31	1912	61.7
+48	American	31	1913	61.7
+49	UNI	32	1976	61.8
+50	California	33	2039	61.8
+51	Southeastern La.	29	1795	61.9
+52	Milwaukee	33	2043	61.9
+53	Kansas	33	2044	61.9
+54	Air Force	29	1798	62.0
+55	Columbia	30	1863	62.1
+56	Virginia Tech	33	2057	62.3
+57	St. Mary's (CA)	32	1996	62.4
+58	Ohio	34	2122	62.4
+59	Wichita St.	32	1998	62.4
+60	Colorado	34	2125	62.5
+61	UCLA	33	2063	62.5
+62	Georgia Tech	31	1940	62.6
+63	Arizona	34	2131	62.7
+64	Wofford	32	2006	62.7
+65	Mercer	33	2070	62.7
+66	New Hampshire	29	1821	62.8
+67	Texas Southern	33	2073	62.8
+68	Loyola Chicago	30	1887	62.9
+69	Stanford	32	2013	62.9
+70	Florida St.	33	2076	62.9
+71	UCF	32	2015	63.0
+-	Georgia	32	2015	63.0
+-	Missouri St.	32	2015	63.0
+74	UC Riverside	31	1954	63.0
+75	UTEP	32	2019	63.1
+76	N.C. Central	32	2020	63.1
+77	Memphis	34	2147	63.1
+78	Gonzaga	31	1959	63.2
+79	LSU	32	2023	63.2
+80	Bowling Green	31	1960	63.2
+81	San Diego St.	33	2087	63.2
+82	Dartmouth	30	1904	63.5
+83	Seton Hall	32	2032	63.5
+84	Boston U.	32	2034	63.6
+85	Long Beach St.	33	2100	63.6
+86	Kansas St.	31	1975	63.7
+87	Loyola Maryland	32	2042	63.8
+88	Jacksonville St.	33	2106	63.8
+89	Robert Morris	34	2170	63.8
+90	Penn	31	1980	63.9
+91	Southern U.	31	1981	63.9
+92	Auburn	31	1983	64.0
+93	Connecticut	33	2116	64.1
+94	UALR	31	1990	64.2
+95	Utah St.	32	2055	64.2
+-	Illinois	32	2055	64.2
+97	Miami (OH)	30	1927	64.2
+98	Wagner	31	1993	64.3
+99	Alabama St.	31	1995	64.4
+100	Illinois St.	33	2125	64.4
+101	Delaware St.	29	1868	64.4
+102	Minnesota	33	2127	64.5
+103	Tulsa	31	2001	64.5
+104	Nevada	32	2067	64.6
+105	Yale	28	1810	64.6
+106	Indiana St.	32	2074	64.8
+107	Southern Miss.	33	2142	64.9
+-	George Mason	33	2142	64.9
+109	Baylor	34	2208	64.9
+110	Vanderbilt	34	2209	65.0
+111	South Carolina	31	2015	65.0
+-	St. Bonaventure	31	2015	65.0
+-	North Texas	32	2080	65.0
+114	Manhattan	32	2082	65.1
+115	East Tenn. St.	31	2017	65.1
+116	Lehigh	33	2148	65.1
+117	East Carolina	31	2019	65.1
+118	Furman	31	2022	65.2
+119	Ole Miss	33	2154	65.3
+120	Valparaiso	33	2157	65.4
+121	Tennessee	32	2094	65.4
+122	Lamar	34	2225	65.4
+123	Northeastern	31	2030	65.5
+124	Indiana	33	2163	65.5
+125	Akron	33	2165	65.6
+126	Nebraska	30	1969	65.6
+127	Prairie View	32	2101	65.7
+128	Missouri	34	2235	65.7
+129	Oral Roberts	33	2170	65.8
+130	UC Santa Barbara	30	1973	65.8
+131	Kent St.	32	2105	65.8
+132	Coastal Caro.	30	1974	65.8
+133	Penn St.	32	2106	65.8
+-	Rutgers	32	2106	65.8
+135	UNLV	34	2239	65.9
+-	Arkansas St.	34	2239	65.9
+137	Jackson St.	31	2042	65.9
+138	Pepperdine	29	1911	65.9
+139	McNeese St.	32	2109	65.9
+140	Winthrop	32	2112	66.0
+-	Purdue	33	2178	66.0
+142	Florida	33	2179	66.0
+-	La Salle	33	2179	66.0
+144	Youngstown St.	31	2047	66.0
+145	Rice	32	2114	66.1
+146	Green Bay	30	1982	66.1
+147	Fresno St.	33	2181	66.1
+148	Norfolk St.	34	2248	66.1
+149	Pittsburgh	33	2183	66.2
+150	West Virginia	32	2117	66.2
+-	Eastern Ky.	32	2117	66.2
+152	Utah Valley	32	2118	66.2
+153	Navy	29	1920	66.2
+154	Marquette	32	2119	66.2
+155	Miami (FL)	31	2053	66.2
+156	Bethune-Cookman	35	2319	66.3
+157	Toledo	34	2253	66.3
+158	Boise St.	30	1988	66.3
+159	Washington St.	31	2056	66.3
+-	Arizona St.	31	2056	66.3
+161	Siena	31	2061	66.5
+162	South Dakota St.	34	2261	66.5
+163	Tennessee St.	32	2131	66.6
+164	BYU	33	2198	66.6
+165	Drake	32	2133	66.7
+166	Loyola Marymount	31	2067	66.7
+167	Central Mich.	32	2134	66.7
+168	Mississippi St.	32	2135	66.7
+-	Iowa St.	32	2135	66.7
+170	George Washington	31	2069	66.7
+171	Gardner-Webb	32	2138	66.8
+172	Hampton	33	2205	66.8
+-	Texas	33	2205	66.8
+174	Holy Cross	29	1938	66.8
+175	North Carolina	34	2273	66.9
+176	Quinnipiac	31	2076	67.0
+177	Oregon	31	2078	67.0
+178	Buffalo	29	1945	67.1
+179	Dayton	32	2147	67.1
+180	Mt. St. Mary's	29	1946	67.1
+181	Idaho	31	2081	67.1
+182	South Ala.	29	1947	67.1
+183	Richmond	32	2149	67.2
+184	Texas-Arlington	32	2150	67.2
+185	Hofstra	32	2151	67.2
+186	Hartford	31	2084	67.2
+187	FIU	29	1951	67.3
+188	La.-Lafayette	31	2087	67.3
+189	Belmont	34	2289	67.3
+190	Pacific	30	2022	67.4
+191	Xavier	33	2226	67.5
+192	Marshall	34	2297	67.6
+193	Northern Ill.	31	2096	67.6
+194	Detroit	35	2367	67.6
+195	A&M-Corpus Chris	30	2030	67.7
+196	UTSA	32	2168	67.8
+197	Ga. Southern	30	2033	67.8
+-	Ill.-Chicago	30	2033	67.8
+199	Davidson	32	2169	67.8
+200	Cornell	28	1898	67.8
+201	Northwestern	31	2102	67.8
+202	Southern Utah	31	2106	67.9
+203	NJIT	32	2175	68.0
+204	Saint Joseph's	33	2243	68.0
+205	Western Ky.	33	2244	68.0
+-	New Mexico St.	35	2380	68.0
+207	North Carolina St.	34	2313	68.0
+208	North Dakota St.	30	2041	68.0
+209	Oklahoma St.	33	2247	68.1
+210	Delaware	31	2113	68.2
+211	Texas Tech	31	2114	68.2
+212	Fla. Atlantic	30	2046	68.2
+213	Col. of Charleston	31	2117	68.3
+214	Alcorn St.	32	2187	68.3
+215	Maine	29	1982	68.3
+216	Colorado St.	31	2119	68.4
+217	Eastern Ill.	29	1984	68.4
+218	Duke	33	2259	68.5
+219	Oklahoma	31	2123	68.5
+220	Albany (NY)	33	2262	68.5
+221	Boston College	31	2125	68.5
+222	Tex.-Pan American	32	2194	68.6
+223	Weber St.	30	2057	68.6
+224	Radford	32	2195	68.6
+225	S.C. Upstate	32	2198	68.7
+226	St. Francis (NY)	30	2062	68.7
+227	Charlotte	30	2066	68.9
+228	Chattanooga	32	2204	68.9
+229	Saint Peter's	31	2138	69.0
+230	Sacramento St.	28	1936	69.1
+231	Southern Ill.	31	2144	69.2
+232	Providence	32	2216	69.3
+233	Louisiana Tech	34	2355	69.3
+234	Mississippi Val.	33	2286	69.3
+235	CSU Bakersfield	30	2079	69.3
+236	William & Mary	32	2220	69.4
+237	Ark.-Pine Bluff	33	2291	69.4
+238	Brown	31	2154	69.5
+239	Creighton	33	2295	69.5
+240	Morgan St.	29	2017	69.6
+-	Saint Francis (PA)	29	2017	69.6
+242	Army	30	2091	69.7
+243	Utah	31	2161	69.7
+244	Arkansas	32	2231	69.7
+-	Towson	32	2231	69.7
+246	Samford	30	2092	69.7
+247	James Madison	32	2235	69.8
+248	Western Mich.	34	2375	69.9
+249	Temple	31	2167	69.9
+250	Northwestern St.	32	2239	70.0
+251	Southeast Mo. St.	31	2170	70.0
+252	Washington	31	2172	70.1
+253	Howard	31	2174	70.1
+254	Alabama A&M	28	1964	70.1
+255	Appalachian St.	31	2175	70.2
+256	High Point	31	2176	70.2
+257	Western Caro.	35	2459	70.3
+258	Central Conn. St.	29	2038	70.3
+259	San Diego	31	2179	70.3
+260	Md.-East. Shore	30	2109	70.3
+261	Wake Forest	31	2182	70.4
+262	San Francisco	33	2326	70.5
+263	Bradley	32	2256	70.5
+264	Villanova	32	2258	70.6
+265	Cal St. Fullerton	30	2117	70.6
+266	UNC Wilmington	31	2189	70.6
+267	Maryland	32	2263	70.7
+268	Binghamton	31	2193	70.7
+269	North Florida	32	2266	70.8
+270	St. John's (NY)	32	2268	70.9
+271	UMKC	31	2204	71.1
+272	TCU	31	2205	71.1
+273	Northern Ariz.	29	2068	71.3
+274	Iowa	33	2354	71.3
+-	UNC Asheville	33	2354	71.3
+276	Liberty	32	2283	71.3
+-	Tennessee Tech	32	2283	71.3
+278	Eastern Wash.	32	2284	71.4
+279	Grambling	28	2001	71.5
+280	Fordham	29	2074	71.5
+281	Houston	30	2147	71.6
+282	La.-Monroe	29	2078	71.7
+283	Elon	31	2226	71.8
+284	Massachusetts	33	2373	71.9
+285	Citadel	30	2158	71.9
+286	Evansville	31	2230	71.9
+287	Montana St.	29	2088	72.0
+-	Duquesne	31	2232	72.0
+289	Fla. Gulf Coast	32	2306	72.1
+290	UC Irvine	32	2309	72.2
+291	Charleston So.	31	2242	72.3
+292	Jacksonville	30	2173	72.4
+293	Sacred Heart	32	2319	72.5
+294	Iona	32	2322	72.6
+295	Austin Peay	32	2324	72.6
+296	N.C. A&T	32	2326	72.7
+297	Fairleigh Dickinson	29	2108	72.7
+298	IUPUI	32	2329	72.8
+299	Oregon St.	33	2405	72.9
+300	Lafayette	31	2260	72.9
+301	Marist	32	2333	72.9
+302	San Jose St.	31	2261	72.9
+303	Idaho St.	30	2192	73.1
+304	Florida A&M	33	2416	73.2
+305	Portland St.	32	2345	73.3
+306	Colgate	30	2209	73.6
+307	Campbell	32	2361	73.8
+308	Niagara	33	2448	74.2
+309	Lipscomb	31	2303	74.3
+310	UC Davis	31	2307	74.4
+311	Hawaii	32	2387	74.6
+-	Rider	32	2387	74.6
+313	IPFW	30	2242	74.7
+314	Texas St.	30	2243	74.8
+315	Santa Clara	30	2245	74.8
+316	Cal St. Northridge	28	2101	75.0
+317	UT Martin	31	2327	75.1
+318	Kennesaw St.	31	2330	75.2
+319	Coppin St.	30	2257	75.2
+320	Northern Colo.	28	2112	75.4
+321	Rhode Island	31	2339	75.5
+322	Monmouth	32	2420	75.6
+323	Canisius	30	2271	75.7
+324	Troy	28	2122	75.8
+325	Portland	31	2357	76.0
+326	DePaul	31	2378	76.7
+327	UNC Greensboro	32	2457	76.8
+328	UMBC	30	2312	77.1
+329	Chicago St.	30	2313	77.1
+330	LIU Brooklyn	33	2552	77.3
+331	Nicholls St.	30	2338	77.9
+332	South Carolina St.	30	2341	78.0
+333	Houston Baptist	30	2344	78.1
+334	Stetson	29	2275	78.4
+335	Oakland	32	2511	78.5
+336	VMI	33	2660	80.6
+337	Central Ark.	29	2371	81.8
+338	Longwood	31	2617	84.4
