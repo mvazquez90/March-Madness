@@ -6,3 +6,8 @@ Program Status: Working
 Program Description:  Takes in data for two difference NCAA teams and 
                       attempts to predict who the winner will be.
 
+Working On: 1)Creating a more advanced GUI where users can simply choose
+              any two teams in the tournament instead of inputing a teams
+	      data every time.
+	    2)Use a more advanced algorith using information about to be 
+	      learned in Mathematical Statistics class.
